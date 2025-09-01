@@ -2,6 +2,17 @@
 
 A Streamlit web application for projecting stock prices based on revenue growth scenarios and financial metrics.
 
+![image](resources/demo.png)
+
+## Features
+
+- Interactive stock projection simulation
+- Multiple revenue stream support
+- Bear, base, and bull case scenarios
+- Dynamic financial modeling
+- Interactive charts and visualizations
+- Real-time parameter adjustment
+
 ## Installation
 
 ### Development Installation
@@ -25,7 +36,7 @@ pip install -r requirements.txt
 Run the Streamlit application:
 
 ```bash
-streamlit run stock_projection.py
+streamlit run stock_simulator.py
 ```
 
 ## Dependencies
